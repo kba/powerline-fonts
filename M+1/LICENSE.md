@@ -1,0 +1,8 @@
+[http://mplus-fonts.osdn.jp/about-en.html#license](http://mplus-fonts.osdn.jp/about-en.html#license)
+
+These fonts are free software. 
+
+Unlimited permission is granted to use, copy, and distribute them, with or
+without modification, either commercially or noncommercially. 
+
+THESE FONTS ARE PROVIDED "AS IS" WITHOUT WARRANTY
