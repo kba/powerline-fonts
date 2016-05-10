@@ -2,7 +2,7 @@ Powerline fonts
 ===============
 
 This repository contains pre-patched and adjusted fonts for usage with
-the new Powerline plugin.
+the `Powerline <https://github.com/powerline/powerline>`_ statusline plugin.
 
 Installation
 ------------
@@ -18,6 +18,8 @@ Font Families
  Powerline Font Family                   Formerly Known As         License
 ======================================= ========================= ====================================
  Anonymice Powerline                     Anonymous Pro             SIL Open Font License, Version 1.1
+ Arimo Powerline                         Arimo                     Apache License, Version 2.0
+ Cousine Powerline                       Cousine                   Apache License, Version 2.0
  DejaVu Sans Mono for Powerline          DejaVu Sans Mono          DejaVu Fonts License, Version 1.0
  Droid Sans Mono for Powerline           Droid Sans Mono           Apache License, Version 2.0
  Droid Sans Mono Slashed for Powerline   Droid Sans Mono Slashed   Apache License, Version 2.0
@@ -30,7 +32,9 @@ Font Families
  Meslo for Powerline                     Meslo                     Apache License, Version 2.0
  Mensch for Powerline                    Meslo                     Apache License, Version 2.0
  Sauce Code Powerline                    Source Code Pro           SIL Open Font License, Version 1.1
+ Symbol Neu Powerline                    Symbol Neu                Apache License, Version 2.0
  Terminess Powerline                     Terminus                  SIL Open Font License, Version 1.1
+ Tinos Powerline                         Tinos                     Apache License, Version 2.0
  Ubuntu Mono derivative Powerline        Ubuntu Mono               Ubuntu Font License, Version 1.0
  Monofur for Powerline                   Monofur                   Freeware
  Fura Powerline                          FiraMono                  SIL Open Font License, Version 1.1
